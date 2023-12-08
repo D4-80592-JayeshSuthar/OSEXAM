@@ -92,7 +92,8 @@ done
 4. grep -v 'a' sample.txt | tac
 
 
-5. 
+5. Screenshots added
+
 
 
 
